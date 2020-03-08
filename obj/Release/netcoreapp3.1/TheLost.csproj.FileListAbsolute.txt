@@ -1,0 +1,11 @@
+C:\GitProjects\TheLost\bin\Release\netcoreapp3.1\TheLost.exe
+C:\GitProjects\TheLost\bin\Release\netcoreapp3.1\TheLost.deps.json
+C:\GitProjects\TheLost\bin\Release\netcoreapp3.1\TheLost.runtimeconfig.json
+C:\GitProjects\TheLost\bin\Release\netcoreapp3.1\TheLost.runtimeconfig.dev.json
+C:\GitProjects\TheLost\bin\Release\netcoreapp3.1\TheLost.dll
+C:\GitProjects\TheLost\bin\Release\netcoreapp3.1\TheLost.pdb
+C:\GitProjects\TheLost\obj\Release\netcoreapp3.1\TheLost.csprojAssemblyReference.cache
+C:\GitProjects\TheLost\obj\Release\netcoreapp3.1\TheLost.AssemblyInfoInputs.cache
+C:\GitProjects\TheLost\obj\Release\netcoreapp3.1\TheLost.AssemblyInfo.cs
+C:\GitProjects\TheLost\obj\Release\netcoreapp3.1\TheLost.dll
+C:\GitProjects\TheLost\obj\Release\netcoreapp3.1\TheLost.pdb
